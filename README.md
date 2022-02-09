@@ -1,3 +1,6 @@
+### Median Blog
+https://medium.com/@isamyakcjain/boston-airbnb-data-analysis-d9e9ac73923b
+
 ### PROJECT MOTIVATION
 * ### AIRBNB BOSTON DATASET
 * ### This project (Write a Data Science Blog Post) is part of Udacity Data Scientists Nanodegree Program.
